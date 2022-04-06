@@ -24,11 +24,11 @@ body {
 
 /* thẻ class cho body */
 .hot {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)), url(https://wallpaperaccess.com/full/3048961.jpg) no-repeat center/cover; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)), url(https://wallpaperaccess.com/full/4199910.jpg) no-repeat center/cover; 
 }
 
 .hot #weather {
-    background: url(https://wallpaperaccess.com/full/3048961.jpg) no-repeat center/cover;
+    background: url(https://wallpaperaccess.com/full/4199910.jpg) no-repeat center/cover;
 }
 
 .cold {
