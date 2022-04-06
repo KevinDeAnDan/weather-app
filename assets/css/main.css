@@ -15,7 +15,7 @@ body {
 }
 
 #weather {
-    background: url('https://img4.thuthuatphanmem.vn/uploads/2020/06/05/anh-nen-phong-canh-thien-nhien_102950908.jpg');
+    background: url('/assets/img/imgmain.JPG');
     width: 360px;
     border-radius: 10px;
     padding: 30px 20px;
