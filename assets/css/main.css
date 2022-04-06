@@ -10,12 +10,12 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)), url('/assets/img/main.JPG') no-repeat center/cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)), url('/assets/img/imgmain.JPG') no-repeat center/cover;
     
 }
 
 #weather {
-    background: url('/assets/img/main.JPG');
+    background: url('/assets/img/imgmain.JPG');
     width: 360px;
     border-radius: 10px;
     padding: 30px 20px;
@@ -24,19 +24,19 @@ body {
 
 /* thẻ class cho body */
 .hot {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)), url('/assets/img/hot.JPG') no-repeat center/cover; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)), url('/assets/img/imghot.JPG') no-repeat center/cover; 
 }
 
 .hot #weather {
-    background: url('/assets/img/hot.JPG');
+    background: url('/assets/img/imghot.JPG');
 }
 
 .cold {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)), url('/assets/img/cold.JPG') no-repeat center/cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)), url('/assets/img/imgcold.JPG') no-repeat center/cover;
 }
 
 .cold #weather {
-    background: url('/assets/img/cold.JPG');
+    background: url('/assets/img/imgcold.JPG');
 }
 /* kết thúc */
 
